@@ -1,7 +1,7 @@
 """
 The goal of this project is develop a simple calculator following Codemy.com tutorial
 
-Tkinter Course - Create Graphic User Interfaces in Python Tutorial
+Tkinter Course - Create Graphic User Interfaces in Python Tutorial was great
 
 https://www.youtube.com/watch?v=YXPyB4XeYLA
 
