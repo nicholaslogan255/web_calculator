@@ -1,0 +1,39 @@
+body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+
+button{
+    min-width: 5em;
+    min-height: 3em;
+    border-radius: 5px;
+    border-style: none;
+    font-size: 150%;
+    
+    
+}
+button:hover{
+    background-color: #DDD;
+}
+
+table{
+    margin: 15px;
+}
+
+td{
+    padding: 1px;
+}
+
+
+#display{
+    min-height: 3em;
+    max-width: 488px;
+    border-radius: 5px;
+    border-style: none;
+    font-size: 150%;
+    background-color: #DDD;
+    text-align: right;
+    margin-left: 15px;
+    margin-top: 15px;
+    padding-top: 1em;
+}
